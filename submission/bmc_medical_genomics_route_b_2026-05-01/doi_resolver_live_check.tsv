@@ -1,0 +1,16 @@
+doi	url	curl_exit	http_status_chain	final_or_last_location
+10.1016/j.jalz.2018.02.018	https://doi.org/10.1016/j.jalz.2018.02.018	0	302>403	https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2018.02.018
+10.1016/j.jalz.2013.10.007	https://doi.org/10.1016/j.jalz.2013.10.007	0	302>403	https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2013.10.007
+10.3233/JAD-179904	https://doi.org/10.3233/JAD-179904	0	302>200	https://sage.cnpereading.com/doi/10.3233/JAD-179904
+10.3233/JAD-2010-101518	https://doi.org/10.3233/JAD-2010-101518	0	302>200	https://sage.cnpereading.com/doi/10.3233/JAD-2010-101518
+10.1016/j.nbd.2011.05.023	https://doi.org/10.1016/j.nbd.2011.05.023	0	302>200	https://linkinghub.elsevier.com/retrieve/pii/S0969996111001926
+10.3233/JAD-2012-121363	https://doi.org/10.3233/JAD-2012-121363	0	302>200	https://sage.cnpereading.com/doi/10.3233/JAD-2012-121363
+10.1186/s13059-015-0750-x	https://doi.org/10.1186/s13059-015-0750-x	0	302>301>303>302>302>200	https://link.springer.com/article/10.1186/s13059-015-0750-x?error=cookies_not_supported&code=3013815d-bffe-4163-9cad-550aacff82e6
+10.7326/M14-0697	https://doi.org/10.7326/M14-0697	0	302>403	https://www.acpjournals.org/doi/10.7326/M14-0697
+10.1093/nar/gkv007	https://doi.org/10.1093/nar/gkv007	0	302>301>403	https://academic.oup.com/nar/article/43/7/e47/2414268/limma-powers-differential-expression-analyses-for
+10.18637/jss.v033.i01	https://doi.org/10.18637/jss.v033.i01	0	302>301>303>302>200	https://www.jstatsoft.org/article/view/v033i01
+10.1186/1471-2105-12-77	https://doi.org/10.1186/1471-2105-12-77	0	302>301>303>302>302>200	https://link.springer.com/article/10.1186/1471-2105-12-77?error=cookies_not_supported&code=8480825f-411b-4e94-b1bc-268cf34f9718
+10.1089/omi.2011.0118	https://doi.org/10.1089/omi.2011.0118	0	302>301>302>200	https://sage.cnpereading.com:443/
+10.1016/j.xinn.2021.100141	https://doi.org/10.1016/j.xinn.2021.100141	0	302>200	https://linkinghub.elsevier.com/retrieve/pii/S2666675821000667
+10.1039/C5MB00663E	https://doi.org/10.1039/C5MB00663E	0	302>403	https://academic.oup.com/molecular-omics/article/12/2/477/8327336
+10.1093/nar/gkad1025	https://doi.org/10.1093/nar/gkad1025	0	302>403	https://academic.oup.com/nar/article/52/D1/D672/7369850

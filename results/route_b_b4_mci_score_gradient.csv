@@ -1,0 +1,4 @@
+model_role,model_id,auc_ad_vs_control,auc_ci_low,auc_ci_high,mean_control,mean_mci,mean_ad,mci_between_control_ad,reaches_auc_070,mci_position
+frozen_primary_gene_only,sig_dev_p_k3,0.554298442944731,0.50011744078338,0.604219597723965,-0.110345528313387,0.0610301292218471,0.0894009593952326,TRUE,FALSE,MCI_between_Control_and_AD
+frozen_primary_integrated,glmnet_dev_auc_k5_a05_lambda.min_clin,0.566538749944864,0.512770720303471,0.620187684707335,0.550166668029797,0.608675455557915,0.598012985093586,FALSE,FALSE,MCI_not_between_Control_and_AD
+train_dev_refit_selected_without_gse140829,refit_glmnet_dev_p_k100_a05_lambda.1se_gene,0.569295575845794,0.517443540205549,0.623928146089718,0.512161044132593,0.561100125795765,0.567880018704806,TRUE,FALSE,MCI_between_Control_and_AD

@@ -1,0 +1,4 @@
+model_role,model_id,covariate_mode,GSE140829,GSE63060,GSE63060+GSE63061,GSE63061,GSE85426,dev_to_gse85426_delta,dev_to_gse140829_delta,independent_validation_best_auc,independent_validation_reaches_070
+primary_gene_only,sig_dev_p_k3,gene_only,0.554298442944731,0.875132625994695,,0.780575539568345,0.566666666666667,0.213908872901678,0.226277096623614,0.566666666666667,FALSE
+primary_integrated_or_clinical,glmnet_dev_auc_k5_a05_lambda.min_clin,gene_plus_age_gender,0.566538749944864,0.875596816976127,,0.784494792225921,0.568271604938272,0.216223187287649,0.217956042281057,0.568271604938272,FALSE
+train_dev_refit_selected,refit_glmnet_dev_p_k100_a05_lambda.1se_gene,gene_only,0.569295575845794,,0.842984376849331,,0.586666666666667,,,0.586666666666667,FALSE

@@ -1,0 +1,6 @@
+criterion,pass,evidence
+near_cohort_reproducible,TRUE,"GSE63061 direction=0.989, targeted FDR genes=395, highest frozen-model AUC=0.784"
+independent_validation_degraded,TRUE,GSE85426/GSE140829 highest frozen-model AUC=0.587/0.569; targeted FDR genes=0/5
+auc_decay_clear,TRUE,Primary model development-to-independent-validation AUC deltas exceed 0.15.
+mci_gradient_partial_support,TRUE,2 of 3 GSE140829 model score summaries place MCI between Control and AD.
+pathway_context_conditional,TRUE,Stable genes have significant pathway enrichment while unstable genes have no FDR<0.05 enrichment.

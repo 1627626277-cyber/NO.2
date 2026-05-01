@@ -1,0 +1,7 @@
+dataset_accession,model,terms
+GSE63061,base,diagnosis_clean + age_numeric + gender_factor
+GSE63061,marker_adjusted,diagnosis_clean + age_numeric + gender_factor + neutrophil_score + monocyte_score + lymphocyte_score
+GSE85426,base,diagnosis_clean + age_numeric + gender_factor
+GSE85426,marker_adjusted,diagnosis_clean + age_numeric + gender_factor + neutrophil_score + monocyte_score + lymphocyte_score
+GSE140829,base,diagnosis_clean + age_numeric + gender_factor + batch_factor
+GSE140829,marker_adjusted,diagnosis_clean + age_numeric + gender_factor + batch_factor + neutrophil_score + monocyte_score + lymphocyte_score

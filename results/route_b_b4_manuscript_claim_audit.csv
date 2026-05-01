@@ -1,0 +1,8 @@
+claim_type,wording,evidence_basis,route_b_ok
+Allowed,Peripheral blood transcriptional signals show related-cohort reproducibility.,GSE63061 direction concordance 0.989 and targeted FDR-concordant genes 395.,TRUE
+Allowed,Transferability is limited across independent platforms/cohorts.,Highest frozen independent-validation model AUC values remain below 0.70 in GSE85426 and GSE140829.,TRUE
+Allowed,External validation failure highlights cohort and platform dependence.,AUC and targeted replication FDR support drop from GSE63061 to independent validation cohorts.,TRUE
+Allowed with caution,Stable transportable genes are enriched for translation and RNA-processing pathways.,B3 stable set enrichment is significant but housekeeping-like; no immune/blood significant terms.,TRUE
+Avoid,Robust diagnostic biomarker.,Contradicted by GSE85426 and GSE140829 AUC values.,FALSE
+Avoid,Clinically useful high-performance classifier.,No independent-validation model reaches AUC 0.70.,FALSE
+Avoid,Validated diagnostic signature across cohorts.,Validation is cohort-dependent and unstable in stress-test datasets.,FALSE

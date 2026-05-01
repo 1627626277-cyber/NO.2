@@ -1,0 +1,4 @@
+dataset_accession,validation_role,platform_or_mapping,n_samples,n_ad,n_control,mapped_s3_candidate_genes,mapped_fraction,direction_concordant,direction_concordance_rate,nominal_concordant,fdr_concordant,auc_ge_060,median_auc_oriented,max_auc_oriented
+GSE63061,related_external_validation,GPL10558 GEO annotation,273,139,134,476,1,471,0.989495798319328,448,395,394,0.637308063996564,0.761408783421024
+GSE85426,cross_platform_stress_test,GSE85426 row-name Entrez ID suffix,180,90,90,451,0.947478991596639,338,0.749445676274945,35,0,28,0.537098765432099,0.652407407407408
+GSE140829,large_independent_external_validation,GPL15988 normalized gene-symbol matrix,427,198,229,460,0.966386554621849,413,0.897826086956522,122,5,3,0.534372105332804,0.603744872303824

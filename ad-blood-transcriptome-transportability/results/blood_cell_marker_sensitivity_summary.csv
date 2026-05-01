@@ -1,0 +1,4 @@
+dataset_accession,mapped_strict_stable_genes,base_direction_concordant,marker_adjusted_direction_concordant,base_direction_rate,marker_adjusted_direction_rate,base_nominal_concordant,marker_adjusted_nominal_concordant,same_direction_after_adjustment_rate,median_abs_logfc_change,median_adjusted_to_base_abs_ratio
+GSE63061,103,103,103,1,1,103,97,1,0.0540420277472386,0.744072109433822
+GSE85426,100,100,69,1,0.69,31,12,0.69,0.103198478000344,0.546910649083323
+GSE140829,102,102,99,1,0.970588235294118,82,26,0.970588235294118,0.0326287486601842,0.585324442826071

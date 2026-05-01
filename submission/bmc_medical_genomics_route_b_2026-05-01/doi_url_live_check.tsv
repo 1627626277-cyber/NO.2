@@ -1,0 +1,21 @@
+ref	kind	doi	url	status	final_url	error
+1	url		https://www.who.int/news-room/fact-sheets/detail/dementia	200	https://www.who.int/news-room/fact-sheets/detail/dementia	
+2	doi	10.1016/j.jalz.2018.02.018	https://doi.org/10.1016/j.jalz.2018.02.018	403	https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2018.02.018	HTTPError: HTTP Error 403: Forbidden
+3	doi	10.1016/j.jalz.2013.10.007	https://doi.org/10.1016/j.jalz.2013.10.007	403	https://alz-journals.onlinelibrary.wiley.com/doi/10.1016/j.jalz.2013.10.007	HTTPError: HTTP Error 403: Forbidden
+4	doi	10.3233/JAD-179904	https://doi.org/10.3233/JAD-179904			URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+5	doi	10.3233/JAD-2010-101518	https://doi.org/10.3233/JAD-2010-101518			URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+6	doi	10.1016/j.nbd.2011.05.023	https://doi.org/10.1016/j.nbd.2011.05.023	200	https://linkinghub.elsevier.com/retrieve/pii/S0969996111001926	
+7	doi	10.3233/JAD-2012-121363	https://doi.org/10.3233/JAD-2012-121363			URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+8	doi	10.1186/s13059-015-0750-x	https://doi.org/10.1186/s13059-015-0750-x	200	https://link.springer.com/article/10.1186/s13059-015-0750-x?error=cookies_not_supported&code=5cec4a0d-dd08-45d6-b8f0-1b6670b7f1f7	
+9	url		https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63060			URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+10	url		https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63061			URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+11	url		https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE85426			URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+12	url		https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE140829			URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+13	doi	10.7326/M14-0697	https://doi.org/10.7326/M14-0697	403	https://www.acpjournals.org/doi/10.7326/M14-0697	HTTPError: HTTP Error 403: Forbidden
+14	doi	10.1093/nar/gkv007	https://doi.org/10.1093/nar/gkv007	403	https://academic.oup.com/nar/article/43/7/e47/2414268/limma-powers-differential-expression-analyses-for	HTTPError: HTTP Error 403: Forbidden
+15	doi	10.18637/jss.v033.i01	https://doi.org/10.18637/jss.v033.i01	200	https://www.jstatsoft.org/article/view/v033i01	
+16	doi	10.1186/1471-2105-12-77	https://doi.org/10.1186/1471-2105-12-77	200	https://link.springer.com/article/10.1186/1471-2105-12-77?error=cookies_not_supported&code=69672241-799c-4369-9a37-ef4443287c55	
+17	doi	10.1089/omi.2011.0118	https://doi.org/10.1089/omi.2011.0118			URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>
+18	doi	10.1016/j.xinn.2021.100141	https://doi.org/10.1016/j.xinn.2021.100141	200	https://linkinghub.elsevier.com/retrieve/pii/S2666675821000667	
+19	doi	10.1039/C5MB00663E	https://doi.org/10.1039/C5MB00663E	403	https://academic.oup.com/molecular-omics/article/12/2/477/8327336	HTTPError: HTTP Error 403: Forbidden
+20	doi	10.1093/nar/gkad1025	https://doi.org/10.1093/nar/gkad1025	403	https://academic.oup.com/nar/article/52/D1/D672/7369850	HTTPError: HTTP Error 403: Forbidden

@@ -1,0 +1,5 @@
+dataset_accession,route_b_role,platform_or_scale,n_ad,n_control,diagnostic_model_status
+GSE63060,discovery_training,GPL6947 Illumina HT-12 v3,145,104,discovery_only
+GSE63061,related_external_validation,GPL10558 Illumina HT-12 v4,139,134,strong_related_cohort_performance
+GSE85426,cross_platform_stress_test,GPL14550 Agilent row Entrez mapping,90,90,failed_070_threshold
+GSE140829,large_independent_external_validation,GPL15988 normalized gene-symbol matrix,198,229,failed_070_threshold

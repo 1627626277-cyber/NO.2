@@ -1,0 +1,4 @@
+dataset_accession,platform_id,role,match_mode,raw_feature_rows,removed_invalid_feature_ids,removed_all_missing_expression,removed_total_feature_rows,n_features,n_samples,n_ad,n_control,missing_values,missing_fraction,duplicate_feature_ids,zero_variance_features,global_min,global_q1,global_median,global_mean,global_q3,global_max,samples_flagged_review,qc_status
+GSE63060,GPL6947,training_candidate,sample_title,38324,1,1,2,38322,249,145,104,0,0,0,0,7.20448891,7.450968147,7.543223841,7.91215285664001,7.853813154,15.04978951,0,PASS
+GSE63061,GPL10558,external_validation_1,sample_title,32051,2,0,2,32049,273,139,134,0,0,0,0,3.926741361,6.055257044,6.156382999,6.60569656601414,6.687331602,14.77842578,0,PASS
+GSE85426,GPL14550,external_validation_2,column_order,14113,0,0,0,14113,180,90,90,0,0,0,0,-10.599529,-0.529086225,0,-0.023113844381595,0.493148445,12.001805,0,PASS

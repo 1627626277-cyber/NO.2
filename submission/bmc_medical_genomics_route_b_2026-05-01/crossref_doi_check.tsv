@@ -1,0 +1,16 @@
+ref	doi	status	title	journal	date
+2	10.1016/j.jalz.2018.02.018	FOUND	NIA‐AA Research Framework: Toward a biological definition of Alzheimer's disease	Alzheimer's &amp; Dementia	{'date-parts': [[2018, 4]]}
+3	10.1016/j.jalz.2013.10.007	FOUND	Developing novel blood‐based biomarkers for Alzheimer's disease	Alzheimer's &amp; Dementia	{'date-parts': [[2014, 1]]}
+4	10.3233/JAD-179904	FOUND	A Blood Test for Alzheimer’s Disease: Progress, Challenges, and Recommendations	Journal of Alzheimer's Disease	{'date-parts': [[2018, 6, 12]]}
+5	10.3233/JAD-2010-101518	FOUND	A Gene Expression Pattern in Blood for the Early Detection of Alzheimer's Disease	Journal of Alzheimer’s Disease	{'date-parts': [[2011, 1, 7]]}
+6	10.1016/j.nbd.2011.05.023	FOUND	Gene expression profiling of peripheral blood leukocytes identifies and validates ABCB1 as a novel biomarker for Alzheimer's disease	Neurobiology of Disease	{'date-parts': [[2011, 9]]}
+7	10.3233/JAD-2012-121363	FOUND	A Blood Gene Expression Marker of Early Alzheimer's Disease	Journal of Alzheimer's Disease	{'date-parts': [[2013, 1, 10]]}
+8	10.1186/s13059-015-0750-x	FOUND	A novel multi-tissue RNA diagnostic of healthy ageing relates to cognitive health status	Genome Biology	{'date-parts': [[2015, 12]]}
+13	10.7326/M14-0697	FOUND	Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD): The TRIPOD Statement	Annals of Internal Medicine	{'date-parts': [[2015, 1, 6]]}
+14	10.1093/nar/gkv007	FOUND	limma powers differential expression analyses for RNA-sequencing and microarray studies	Nucleic Acids Research	{'date-parts': [[2015, 4, 20]]}
+15	10.18637/jss.v033.i01	FOUND	Regularization Paths for Generalized Linear Models via Coordinate Descent	Journal of Statistical Software	{'date-parts': [[2010]]}
+16	10.1186/1471-2105-12-77	FOUND	pROC: an open-source package for R and S+ to analyze and compare ROC curves	BMC Bioinformatics	{'date-parts': [[2011, 12]]}
+17	10.1089/omi.2011.0118	FOUND	clusterProfiler: an R Package for Comparing Biological Themes Among Gene Clusters	OMICS: A Journal of Integrative Biology	{'date-parts': [[2012, 5, 1]]}
+18	10.1016/j.xinn.2021.100141	FOUND	clusterProfiler 4.0: A universal enrichment tool for interpreting omics data	The Innovation	{'date-parts': [[2021, 8]]}
+19	10.1039/C5MB00663E	FOUND	ReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization	Molecular BioSystems	{'date-parts': [[2015, 11, 23]]}
+20	10.1093/nar/gkad1025	FOUND	The Reactome Pathway Knowledgebase 2024	Nucleic Acids Research	{'date-parts': [[2024, 1, 5]]}

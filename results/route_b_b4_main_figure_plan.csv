@@ -1,0 +1,5 @@
+figure_id,file,purpose,manuscript_message
+Figure 1,figures/route_b/B4_main_figure1_dataset_workflow.png,"Show discovery, related validation, cross-platform stress test, and large independent external validation dataset roles.","The study is designed as staged external validation, not single-cohort discovery."
+Figure 2,figures/route_b/B4_main_figure2_validation_heatmap.png,"Show mapping, direction, nominal replication, targeted replication FDR, gene-level AUC, and frozen model AUC across cohorts.",Signals replicate strongly in the related cohort but degrade in independent validation.
+Figure 3,figures/route_b/B4_main_figure3_auc_and_scores.png,Show AUC decay and GSE140829 MCI score placement.,Model performance drops below 0.70 in independent validation; MCI gradient is only partial support.
+Figure 4,figures/route_b/B4_main_figure4_pathway_comparison.png,Show stable-vs-unstable enrichment yield and pathway modules.,Transportable stable genes show conservative translation/RNA-processing enrichment; unstable genes lack coherent enrichment.

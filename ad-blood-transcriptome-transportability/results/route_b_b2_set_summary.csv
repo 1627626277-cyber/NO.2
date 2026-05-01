@@ -1,0 +1,13 @@
+metric,n_genes
+s3_candidate_genes,476
+near_cohort_directional_anchor,471
+near_cohort_nominal_anchor,448
+stable_strict_primary,103
+stable_directional_sensitivity,327
+unstable_primary,235
+unstable_reversal,139
+unstable_vanish,190
+gse85426_direction_concordant,338
+gse140829_direction_concordant,413
+gse85426_nominal_concordant,35
+gse140829_nominal_concordant,122

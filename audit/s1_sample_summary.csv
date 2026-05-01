@@ -1,0 +1,11 @@
+dataset_accession,diagnosis_clean,all_samples,included_primary_ad_control
+GSE63060,AD,145,145
+GSE63060,Control,104,104
+GSE63060,MCI,80,0
+GSE63061,AD,139,139
+GSE63061,Control,134,134
+GSE63061,MCI,112,0
+GSE63061,Transition,2,0
+GSE63061,Unknown,1,0
+GSE85426,AD,90,90
+GSE85426,Control,90,90

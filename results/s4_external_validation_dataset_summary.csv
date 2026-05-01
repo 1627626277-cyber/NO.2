@@ -1,0 +1,3 @@
+dataset_accession,map_source,n_samples,n_ad,n_control,original_features,mapped_gene_rows_before_collapse,collapsed_unique_genes,s3_candidate_genes_with_entrez,mapped_s3_candidate_genes,mapped_fraction,direction_concordant,direction_concordance_rate,nominal_concordant,fdr_concordant,auc_ge_060,median_auc_oriented,max_auc_oriented
+GSE63061,GPL10558 GEO annotation,273,139,134,32049,22296,16030,476,476,1,471,0.989495798319328,448,395,394,0.637308063996564,0.761408783421024
+GSE85426,GSE85426 row-name Entrez ID suffix,180,90,90,14113,10775,10775,476,451,0.947478991596639,338,0.749445676274945,35,0,28,0.537098765432099,0.652407407407408

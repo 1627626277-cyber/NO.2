@@ -1,0 +1,2 @@
+dataset_accession,model,n_samples,n_ad,n_control,n_features_tested,n_zero_variance_removed,n_main_candidate_probes,n_main_candidate_annotated_probes,n_main_candidate_genes,n_nominal_candidate_probes,n_bh_005_probes_without_logfc_cutoff,n_main_up,n_main_down,min_adj_p,min_p
+GSE63060,limma: expression ~ diagnosis + age + gender,249,145,104,38322,0,623,546,476,640,3527,155,468,3.88126738803366e-21,1.01280397370535e-25
