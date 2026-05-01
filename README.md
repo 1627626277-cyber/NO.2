@@ -1,0 +1,11 @@
+# NO.2
+
+## AD blood transcriptome transportability archive
+
+This repository contains the public archive index for the Route B Alzheimer's disease peripheral blood transcriptomics manuscript.
+
+- Archive folder: [ad-blood-transcriptome-transportability](ad-blood-transcriptome-transportability/)
+- Snapshot reconstruction: [ad-blood-transcriptome-transportability/ARCHIVE_RECONSTRUCTION.md](ad-blood-transcriptome-transportability/ARCHIVE_RECONSTRUCTION.md)
+- Purpose: scripts, key results, audit reports, and compact reproducibility materials for a limited-transferability external-validation study.
+
+The study uses public GEO datasets GSE63060, GSE63061, GSE85426, and GSE140829.
