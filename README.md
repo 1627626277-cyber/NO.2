@@ -5,7 +5,8 @@
 This repository contains the public archive index for the Route B Alzheimer's disease peripheral blood transcriptomics manuscript.
 
 - Archive folder: [ad-blood-transcriptome-transportability](ad-blood-transcriptome-transportability/)
+- ChatGPT index: [CHATGPT_REPOSITORY_INDEX.md](CHATGPT_REPOSITORY_INDEX.md)
 - Snapshot reconstruction: [ad-blood-transcriptome-transportability/ARCHIVE_RECONSTRUCTION.md](ad-blood-transcriptome-transportability/ARCHIVE_RECONSTRUCTION.md)
-- Purpose: scripts, key results, audit reports, and compact reproducibility materials for a limited-transferability external-validation study.
+- Purpose: scripts, key results, audit reports, and figures for a limited-transferability external-validation study.
 
 The study uses public GEO datasets GSE63060, GSE63061, GSE85426, and GSE140829.
